@@ -1,0 +1,12 @@
+// You have to Create a method that return true if a number is even and false if a number is odd
+
+public class challenge2 {
+
+    public static boolean isEven(int n){
+    return n % 2 == 0;
+}
+
+    public static void main(String[] args) {
+        System.out.println(isEven(6));
+    }
+}
