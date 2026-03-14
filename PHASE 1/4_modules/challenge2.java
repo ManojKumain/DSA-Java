@@ -1,6 +1,6 @@
 // You have to Create a method that return true if a number is even and false if a number is odd
 
-public class challenge2 {
+public class Challenge2 {
 
     public static boolean isEven(int n){
     return n % 2 == 0;
