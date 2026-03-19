@@ -1,7 +1,8 @@
 {
   "java.project.sourcePaths": [
+    "PHASE 1/9_Collections/9.3_HashSet",
     "PHASE 1/9_Collections/9.2_HashMap",
     "PHASE 1/9_Collections/9.1_ArrayList",
-    "PHASE 1/9_Collections/9.3_HashSet"
+    "PHASE 1/Part_2/1_Pattern_Problems"
   ]
 }
