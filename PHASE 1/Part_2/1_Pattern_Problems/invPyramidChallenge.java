@@ -1,4 +1,4 @@
-public class InvPyramidChallenge {
+public class invPyramidChallenge {
 
     public static void invPyramid(int n) {
 
@@ -11,7 +11,7 @@ public class InvPyramidChallenge {
 
             // numbers (decrease each row)
             for (int col = 1; col <= n - row + 1; col++) {
-                System.out.print(col + " ");
+                System.out.print(n - col + row + 1 + " ");
             }
 
             System.out.println();
